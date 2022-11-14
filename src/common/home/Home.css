@@ -1,0 +1,31 @@
+#bg-home {
+    background-image: url("../../images/CourierService.jpg");
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    background-size: cover;
+    align-items: center;
+    position:relative
+}
+
+#home-card{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:30%;
+    margin-right: 50%;
+    text-align: center;
+    width:400px;
+    height:200px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background-image: linear-gradient(to right, lightskyblue,lightgoldenrodyellow);
+    border : 1px dotted black;
+    position:relative;
+    padding-top: 30px;
+}
+#hi{
+    font-size: 18px;
+}
+#login{
+    font-size: 22px;
+}

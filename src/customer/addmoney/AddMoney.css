@@ -1,0 +1,52 @@
+#myContent {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  li:hover {
+    background-color: lightblue;
+  }
+  
+  #myDiv1 {
+    width: 20%;
+  }
+  
+  
+  #addmoney {
+    width: 60%;
+    padding-left : 50px;
+    padding-right : 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    border: 3px solid navy;
+    background-color:lightcyan;
+    color:darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+  
+  
+  h1{
+    font-weight: bolder;
+    color:navy;
+  }
+  
+  h2{
+    font-weight:bold;
+    color:navy;
+    text-align: center;
+  }
+  
+  p{
+    font-family: monospace;
+    font-weight: bold;
+    color:blue
+  
+  }
+
+  #buttonSubmit{
+    text-align: center;
+    margin-top: 10px;
+  }
+  

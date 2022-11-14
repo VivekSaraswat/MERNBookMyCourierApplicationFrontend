@@ -1,0 +1,38 @@
+#myContent {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  li:hover {
+    background-color: lightblue;
+  }
+  
+  #myDiv1 {
+    width: 20%;
+  }
+  
+  
+  #trackmyorder {
+    width: 80%;
+    margin-bottom: 20px;
+  }
+  
+
+  
+  h1{
+    font-weight: bolder;
+    color:navy;
+  }
+  
+  h2{
+    font-weight:bold;
+    color:navy;
+    text-align: center;
+  }
+  
+  p{
+    font-family: monospace;
+    font-weight: bold;
+    color:blue
+  
+  }

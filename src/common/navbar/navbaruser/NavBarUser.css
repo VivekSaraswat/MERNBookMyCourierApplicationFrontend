@@ -1,0 +1,41 @@
+.jumbotron {
+    background-image: url(../../../../public/JumboBgImg.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myContent {
+    display: flex;
+    flex-direction: row;
+}
+
+li:hover {
+    background-color: lightblue;
+}
+
+#myDiv1 {
+    width: 20%;
+}
+
+
+#myDiv2 {
+    width: 80%;
+}
+
+h1 {
+    font-weight: bolder;
+    color: navy;
+}
+
+h2 {
+    font-weight: bold;
+    color: navy;
+    text-align: center;
+}
+
+p {
+    font-family: monospace;
+    font-weight: bold;
+    color: blue
+}

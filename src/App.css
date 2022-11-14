@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.jumbotron{
+  font-size: 1.5rem;
+}
+.display-3{
+  font-weight: 400;
+  text-shadow: 2px 2px 5px black;
+  
+}
+#loginform{
+  border-radius: 8px;
+}
+#registerform{
+  border-radius: 8px;
 }
